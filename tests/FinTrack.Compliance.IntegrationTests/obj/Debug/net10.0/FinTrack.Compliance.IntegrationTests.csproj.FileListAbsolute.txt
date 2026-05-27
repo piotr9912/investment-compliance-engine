@@ -112,3 +112,6 @@ C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.Integratio
 C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.IntegrationTests\obj\Debug\net10.0\FinTrack.Compliance.IntegrationTests.pdb
 C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.IntegrationTests\obj\Debug\net10.0\FinTrack.Compliance.IntegrationTests.genruntimeconfig.cache
 C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.IntegrationTests\obj\Debug\net10.0\ref\FinTrack.Compliance.IntegrationTests.dll
+C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.IntegrationTests\obj\Debug\net10.0\FinTrack.Compliance.IntegrationTests.sourcelink.json
+C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.IntegrationTests\bin\Debug\net10.0\CsvHelper.dll
+C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.IntegrationTests\bin\Debug\net10.0\FluentAssertions.dll

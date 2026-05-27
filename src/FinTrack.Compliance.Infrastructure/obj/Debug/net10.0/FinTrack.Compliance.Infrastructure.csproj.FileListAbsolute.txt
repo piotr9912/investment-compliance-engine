@@ -15,3 +15,4 @@ C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructu
 C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\refint\FinTrack.Compliance.Infrastructure.dll
 C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\FinTrack.Compliance.Infrastructure.pdb
 C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\ref\FinTrack.Compliance.Infrastructure.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\FinTrack.Compliance.Infrastructure.sourcelink.json

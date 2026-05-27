@@ -99,3 +99,4 @@ C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.Domain.Tes
 C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.Domain.Tests\obj\Debug\net10.0\FinTrack.Compliance.Domain.Tests.genruntimeconfig.cache
 C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.Domain.Tests\obj\Debug\net10.0\ref\FinTrack.Compliance.Domain.Tests.dll
 C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.Domain.Tests\bin\Debug\net10.0\FluentAssertions.dll
+C:\Users\Piotr\investment-compliance-engine\tests\FinTrack.Compliance.Domain.Tests\obj\Debug\net10.0\FinTrack.Compliance.Domain.Tests.sourcelink.json

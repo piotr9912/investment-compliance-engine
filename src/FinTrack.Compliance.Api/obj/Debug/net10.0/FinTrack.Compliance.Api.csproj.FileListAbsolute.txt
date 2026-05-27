@@ -37,3 +37,5 @@ C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Api\obj\Debu
 C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Api\obj\Debug\net10.0\FinTrack.Compliance.Api.pdb
 C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Api\obj\Debug\net10.0\FinTrack.Compliance.Api.genruntimeconfig.cache
 C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Api\obj\Debug\net10.0\ref\FinTrack.Compliance.Api.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Api\bin\Debug\net10.0\CsvHelper.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Api\obj\Debug\net10.0\FinTrack.Compliance.Api.sourcelink.json
