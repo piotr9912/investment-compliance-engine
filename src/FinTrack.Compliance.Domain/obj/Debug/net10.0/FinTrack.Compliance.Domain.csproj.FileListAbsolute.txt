@@ -1,0 +1,11 @@
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Domain\bin\Debug\net10.0\FinTrack.Compliance.Domain.deps.json
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Domain\bin\Debug\net10.0\FinTrack.Compliance.Domain.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Domain\bin\Debug\net10.0\FinTrack.Compliance.Domain.pdb
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Domain\obj\Debug\net10.0\FinTrack.Compliance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Domain\obj\Debug\net10.0\FinTrack.Compliance.Domain.AssemblyInfoInputs.cache
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Domain\obj\Debug\net10.0\FinTrack.Compliance.Domain.AssemblyInfo.cs
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Domain\obj\Debug\net10.0\FinTrack.Compliance.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Domain\obj\Debug\net10.0\FinTrack.Compliance.Domain.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Domain\obj\Debug\net10.0\refint\FinTrack.Compliance.Domain.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Domain\obj\Debug\net10.0\FinTrack.Compliance.Domain.pdb
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Domain\obj\Debug\net10.0\ref\FinTrack.Compliance.Domain.dll

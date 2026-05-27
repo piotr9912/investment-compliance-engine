@@ -1,0 +1,17 @@
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\bin\Debug\net10.0\FinTrack.Compliance.Infrastructure.deps.json
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\bin\Debug\net10.0\FinTrack.Compliance.Infrastructure.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\bin\Debug\net10.0\FinTrack.Compliance.Infrastructure.pdb
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\bin\Debug\net10.0\FinTrack.Compliance.Application.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\bin\Debug\net10.0\FinTrack.Compliance.Domain.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\bin\Debug\net10.0\FinTrack.Compliance.Application.pdb
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\bin\Debug\net10.0\FinTrack.Compliance.Domain.pdb
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\FinTrack.Compliance.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\FinTrack.Compliance.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\FinTrack.Compliance.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\FinTrack.Compliance.Infrastructure.AssemblyInfo.cs
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\FinTrack.Compliance.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\FinTrack.EDEA85B0.Up2Date
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\FinTrack.Compliance.Infrastructure.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\refint\FinTrack.Compliance.Infrastructure.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\FinTrack.Compliance.Infrastructure.pdb
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Infrastructure\obj\Debug\net10.0\ref\FinTrack.Compliance.Infrastructure.dll

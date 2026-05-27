@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FinTrack.Compliance.Api/FinTrack.Compliance.Api.csproj" />
+    <Project Path="src/FinTrack.Compliance.Application/FinTrack.Compliance.Application.csproj" />
+    <Project Path="src/FinTrack.Compliance.Domain/FinTrack.Compliance.Domain.csproj" />
+    <Project Path="src/FinTrack.Compliance.Infrastructure/FinTrack.Compliance.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FinTrack.Compliance.Domain.Tests/FinTrack.Compliance.Domain.Tests.csproj" />
+    <Project Path="tests/FinTrack.Compliance.IntegrationTests/FinTrack.Compliance.IntegrationTests.csproj" />
+  </Folder>
+</Solution>

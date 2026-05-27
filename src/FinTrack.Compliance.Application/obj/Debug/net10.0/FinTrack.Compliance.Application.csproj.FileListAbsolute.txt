@@ -1,0 +1,15 @@
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\bin\Debug\net10.0\FinTrack.Compliance.Application.deps.json
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\bin\Debug\net10.0\FinTrack.Compliance.Application.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\bin\Debug\net10.0\FinTrack.Compliance.Application.pdb
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\bin\Debug\net10.0\FinTrack.Compliance.Domain.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\bin\Debug\net10.0\FinTrack.Compliance.Domain.pdb
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\obj\Debug\net10.0\FinTrack.Compliance.Application.csproj.AssemblyReference.cache
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\obj\Debug\net10.0\FinTrack.Compliance.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\obj\Debug\net10.0\FinTrack.Compliance.Application.AssemblyInfoInputs.cache
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\obj\Debug\net10.0\FinTrack.Compliance.Application.AssemblyInfo.cs
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\obj\Debug\net10.0\FinTrack.Compliance.Application.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\obj\Debug\net10.0\FinTrack.E3FD2218.Up2Date
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\obj\Debug\net10.0\FinTrack.Compliance.Application.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\obj\Debug\net10.0\refint\FinTrack.Compliance.Application.dll
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\obj\Debug\net10.0\FinTrack.Compliance.Application.pdb
+C:\Users\Piotr\investment-compliance-engine\src\FinTrack.Compliance.Application\obj\Debug\net10.0\ref\FinTrack.Compliance.Application.dll

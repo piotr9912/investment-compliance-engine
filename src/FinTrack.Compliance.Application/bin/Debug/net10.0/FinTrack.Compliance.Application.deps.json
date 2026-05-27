@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FinTrack.Compliance.Application/1.0.0": {
+        "dependencies": {
+          "FinTrack.Compliance.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FinTrack.Compliance.Application.dll": {}
+        }
+      },
+      "FinTrack.Compliance.Domain/1.0.0": {
+        "runtime": {
+          "FinTrack.Compliance.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinTrack.Compliance.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinTrack.Compliance.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
