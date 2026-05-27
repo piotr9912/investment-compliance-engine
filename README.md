@@ -9,6 +9,7 @@ This project simulates a core component of an asset management platform (similar
 - **Clean Architecture**: Complete decoupling of core financial business logic from infrastructure, UI, and external frameworks.
 - **Domain-Driven Design (DDD)**: Rich domain model utilizing `Entities`, `Aggregates`, and `Value Objects` (e.g., thread-safe `Money` structure to prevent raw decimal/double confusion).
 - **Strategy Pattern for Rules**: Compliance checks (e.g., Asset Concentration, Leverage Limits, Currency Exposure) are implemented as interchangeable strategies, making the engine highly extensible.
+- **Financial Data Ingestion**: Features an extensible data ingestion pipeline with an implemented `CsvPortfolioReader` using `CsvHelper`, showcasing how raw End-of-Day (EoD) transactional files are safely mapped into the rich domain layer.
 - **FinTech Grade Precision**: Strict usage of `decimal` data types across all financial calculations to eliminate floating-point rounding errors.
 - **Defensive Programming**: Comprehensive input validation and resilient error handling to process malformed market data or corrupted trade feeds.
 - **High Performance & Async I/O**: Designed to process massive sets of portfolio positions asynchronously using modern .NET constructs.
@@ -16,6 +17,7 @@ This project simulates a core component of an asset management platform (similar
 ## 🛠️ Technology Stack
 
 - **Backend**: .NET 9 Core
+- **Data Parsing**: CsvHelper
 - **Testing**: xUnit, FluentAssertions (for human-readable assertions), NSubstitute (for mocking)
 - **Code Quality**: Strict `.editorconfig` rules, `<TreatWarningsAsErrors>true</TreatWarningsAsErrors>` enabled.
 - **Resilience**: Polly (for transient fault handling in infrastructure data fetching)
@@ -23,9 +25,11 @@ This project simulates a core component of an asset management platform (similar
 ## 📂 Solution Structure
 
 - `src/FinTrack.Compliance.Domain`: The core heartbeat. Contains financial models (`Portfolio`, `Position`, `Asset`) and rule validation algorithms. Zero external dependencies.
-- `src/FinTrack.Compliance.Application`: Use cases, rule execution orchestrators, and interface definitions.
-- `src/FinTrack.Compliance.Infrastructure`: File parsers (JSON/CSV trade ingestion), in-memory data store implementations, and external market-data mock clients.
+- `src/FinTrack.Compliance.Application`: Use cases, abstractions (`IPortfolioReader`), rule execution orchestrators, and interface definitions.
+- `src/FinTrack.Compliance.Infrastructure`: Production-ready file parsers (`CsvPortfolioReader`), in-memory data store implementations, and external market-data mock clients.
 - `src/FinTrack.Compliance.Api`: REST API endpoints to trigger portfolio compliance checks and fetch audit reports.
+- `tests/FinTrack.Compliance.Domain.Tests`: Domain-specific Unit Tests covering core financial limits and calculations.
+- `tests/FinTrack.Compliance.IntegrationTests`: End-to-End integration tests validating the data pipeline from a raw file feed up to the final portfolio evaluation state.
 
 ## 🚦 How to Run & Test
 
@@ -34,7 +38,7 @@ Prerequisites: .NET 9 SDK installed.
 ### Clone the repository
 ```bash
 git clone https://github.com
-cd FinTrack.InvestmentCompliance
+cd investment-compliance-engine
 ```
 
 ### Build the Solution
